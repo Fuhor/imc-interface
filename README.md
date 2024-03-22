@@ -29,4 +29,5 @@ Navegue até o diretório onde você baixou/clonou o repositório.
 Execute o script calculadora_imc.py:
 
 >python calculadora_imc.py
+
 A interface gráfica da calculadora de IMC será aberta. Insira seu peso e altura nos campos correspondentes e clique no botão "Calcular" para obter seu IMC e o estado de saúde correspondente.
