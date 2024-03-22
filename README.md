@@ -20,14 +20,13 @@ Certifique-se de ter Python instalado em seu sistema. Você pode baixá-lo em py
 
 Instale a biblioteca PySimpleGUI usando pip:
 
-Copy code
-pip install PySimpleGUI
+>pip install PySimpleGUI
+
 Baixe ou clone este repositório em sua máquina local.
 
 Navegue até o diretório onde você baixou/clonou o repositório.
 
 Execute o script calculadora_imc.py:
 
-Copy code
-python calculadora_imc.py
+>python calculadora_imc.py
 A interface gráfica da calculadora de IMC será aberta. Insira seu peso e altura nos campos correspondentes e clique no botão "Calcular" para obter seu IMC e o estado de saúde correspondente.
