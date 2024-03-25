@@ -12,7 +12,8 @@ O Índice de Massa Corporal (IMC) é uma medida comum usada para avaliar se uma 
 - Cálculo do IMC em tempo real.
 - Indicação do estado de saúde com base no IMC calculado.
 * Tecnologias Utilizadas
-. Python 3.x
+  
+. Python 3.12
 . PySimpleGUI
 
 # Como Executar o Projeto
